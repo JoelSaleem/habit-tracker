@@ -1,0 +1,4 @@
+node_modules
+.next
+dev.js
+now.json
